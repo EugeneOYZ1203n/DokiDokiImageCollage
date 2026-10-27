@@ -346,10 +346,8 @@ collage/          application package
   ui/             Tk screens: app, editor, selector, cropper, settings, thumbgrid
   assign.py colors.py crop.py saliency.py render.py geometry.py instagram.py ...
 tests/            pytest suite
-art/              sample artwork used for demos and screenshots
-artist_profile/   artist branding (ATAD icon)
 docs/images/      README screenshots
 build.ps1, collage.spec, run_collage.py   exe build
 ```
 
-Sample artwork in `art/` and the icon in `artist_profile/` belong to their artist; please do not reuse them without permission. The screenshots in `docs/images/` were captured from the real app with the sample artwork and a demo template.
+The screenshots in `docs/images/` were captured from the real app with sample artwork and a demo template.
