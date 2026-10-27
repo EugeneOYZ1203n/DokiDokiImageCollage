@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="artist_profile/ATAD%20Icon.png" alt="ATAD" width="120">
-</p>
-
 <h1 align="center">Doki Doki Photo Collage</h1>
 
 <p align="center">
@@ -70,8 +66,6 @@ The app has no command-line options; everything happens in the window. Prefer no
 ---
 
 ## Quick start: your first collage
-
-Goal: make a poster with one large "hero" picture and a grid of six smaller pictures. The screenshots use the sample artwork from [`art/`](art) and the ATAD icon from [`artist_profile/`](artist_profile).
 
 ### Step 1. Create a template
 
